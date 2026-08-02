@@ -30,7 +30,4 @@ A command-line tool for molecular biology sequence analysis and PCR primer desig
 - Python 3.7 or higher
 - No external dependencies required (uses only Python standard library)
 
-### Clone Repository
-```bash
-git clone https://github.com/yourusername/digital-bioscience-suite.git
-cd digital-bioscience-suite
+
